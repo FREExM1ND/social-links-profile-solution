@@ -1,3 +1,11 @@
+:root {
+  --grey-700: hsl(0, 0%, 20%);
+  --grey-800: hsl(0, 0%, 12%);
+  --grey-900: hsl(0, 0%, 8%);
+  --green: hsl(75, 94%, 57%);
+  --white: hsl(0, 0%, 100%);
+}
+
 html {
   box-sizing: border-box;
 }
@@ -5,4 +13,17 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
+}
+
+body {
+  background-color: var(--grey-900);
+}
+
+.social-profile-links-card {
+  background-color: var(--grey-800);
+  text-align: center;
+}
+
+.social-profile-link {
+  background-color: var(--grey-700);
 }

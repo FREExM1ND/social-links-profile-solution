@@ -42,12 +42,19 @@ body {
   background-color: var(--grey-800);
   text-align: center;
   padding: var(--spacing-l);
+  border-radius: 0.857rem;
+}
+
+.profile-image {
+  height: 88px;
+  border-radius: 50%;
 }
 
 .profile-name {
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: var(--fw-semi-bold);
   margin-top: var(--spacing-l);
+  margin-bottom: 1rem;
 }
 
 .location {
@@ -74,7 +81,19 @@ nav {
   background-color: var(--grey-700);
   text-decoration: none;
   font-size: 1rem;
-  font-weight: var(--fw-bold);
+  font-weight: var(--fw-semi-bold);
+  width: 20rem;
+  height: 3rem;
+  border-radius: 0.57rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-profile-link:hover {
+  background-color: var(--green);
+  color: var(--grey-800);
+  cursor: pointer;
 }
 
 .social-profile-card,
@@ -82,7 +101,19 @@ nav {
   color: var(--white);
 }
 
-.credits {
+.credits,
+.credits a {
   font-size: 0.75rem;
   text-align: center;
+  color: var(--grey-800);
+}
+
+@media screen and (min-width: 768px) {
+  .social-profile-card {
+    padding: var(--spacing-xl);
+  }
+
+  .social-profile-link {
+    width: 22rem;
+  }
 }

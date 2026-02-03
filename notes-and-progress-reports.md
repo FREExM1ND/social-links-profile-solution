@@ -23,10 +23,12 @@
     - desktop
       - same as tablet
 
-insert date
+2/3/2026
 
 - what's wrong
-  - tab function
-  - personalize with own info
-  - change color palate to match own style
+  - tab function (confirmed)
+  - personalize with own info (after submitting)
+  - change color palate to match own style (after submitting)
     - make sure to not wreck contrast
+    - blue color for text(?)
+    - make sure the colors work with dark mode

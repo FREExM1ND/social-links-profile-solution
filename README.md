@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://freexm1nd.github.io/social-links-profile-solution/)
 
 ## My process
 
@@ -98,7 +98,7 @@ Below is some code that reflects the things I learned above:
 
 ### Continued development
 
-Using the Figma file came in particularly handy this time around. I tried using the screenshot that was provided in the assets, but I found very quickly that I uncomfortable not knowing the exact dimensions of the design. I'm sure this situation will come up again, so if the design allows, I want to start the design not using the Figma file and see how far I can get.
+Using the Figma file came in particularly handy this time around. I tried using the screenshot that was provided in the assets, but I quickly realized that I was uncomfortable not knowing the exact dimensions of the design. I'm sure this situation will come up again, so if the design allows, I want to start the design not using the Figma file and see how far I can get.
 
 ### Useful resources
 

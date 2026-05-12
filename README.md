@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://freexm1nd.github.io/social-links-profile-solution/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-media-profile-for-front-end-professional-z-oEWF9ZKK)
+- [Live Site URL](https://freexm1nd.github.io/social-links-profile-solution/)
 
 ## My process
 
